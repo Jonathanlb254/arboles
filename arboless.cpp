@@ -93,9 +93,9 @@ int main() {
     cin >> valorBuscar;
 
     if (arbol.buscar(valorBuscar)) {
-        cout << "El valor " << valorBuscar << " está en el árbol." << endl;
+        cout << "El valor " << valorBuscar << " está en el arbol." << endl;
     } else {
-        cout << "El valor " << valorBuscar << " no está en el árbol." << endl;
+        cout << "El valor " << valorBuscar << " no está en el arbol." << endl;
     }
 
     return 0;
